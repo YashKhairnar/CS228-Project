@@ -1,0 +1,6 @@
+.venv
+.claude
+checkpoint1/data/
+checkpoint1/output/
+checkpoint1/overleaf_upload/
+main.tex

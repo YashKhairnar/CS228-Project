@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+timm
+kagglehub
+opencv-python
+numpy
+matplotlib
+tqdm
+scikit-learn
+facenet-pytorch
+transformers
